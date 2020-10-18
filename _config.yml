@@ -1,0 +1,12 @@
+url: https://educacion4ti.github.io/
+baseurl: "/aprendiendoTI"
+
+title: Blog Aprendiendo TI
+author: educacion4ti
+
+plugins:
+    - jekyll-paginate
+
+# Post por pagina
+paginate: 5
+

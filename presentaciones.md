@@ -1,8 +1,8 @@
 ---
-title: Acerca de
+title: Presentaciones
 ---
 
 
-En este blog publicaremos diversas temáticas acerca de cómo integrar las Tecnologías de la Información al aula.
+Aquí se listarán diversas presentaciones que se elaboraron con Markdown.
 
 Encuéntranos en [GitHub]({{ site.url }}/slides/guiaRapidaMarkdown.html)

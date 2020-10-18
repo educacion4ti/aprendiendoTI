@@ -11,11 +11,12 @@ links:
   - name:         Publicaciones
     url:          /
     external:     false
+  - name:         Presentaciones
+    url:          /presentaciones
+    external:     false
   - name:         Acerca de
     url:          /about
     external:     false
-  - name:         Presentaciones
-    url:          /presentaciones
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title

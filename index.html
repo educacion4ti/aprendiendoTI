@@ -5,8 +5,8 @@
   {% for post in site.categories.blog %}
     <div>
         href="{{ site.url }}{{ post.url }}" class="db pv1 link blue hover-mid-gray">
-              <img src="{{ post.thumbnail }}" />
               <time class="fr silver ttu">{{ post.date | date_to_string }} </time>
+              <img src="{{ post.thumbnail }}" />
               {{ post.title }}
     </div>
   {% endfor %}

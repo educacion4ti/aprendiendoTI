@@ -76,4 +76,15 @@ footer: 'CACED _Markdown para creación de contenido Web_'
 
 ---
 
+**Actividad 8**. Crear un repositorio en GitHub y configurar GitHub Pages con Jekyll.
+
+* Crear un repositorio en GitHub.
+* Configurar GitHub Pages.
+* Descargar un tema para Jekyll.
+* Agregar una carpeta para mostrar archivos html generados desde Pandoc o Marp * con Markdown.
+* Crear el archivo Act8_nombreApellido.txt y colocar la dirección del sitio web almacenado en GitHub Pages.
+Ejemplo:  Act8_juanPerez.txt y agregarlo en la [carpeta compartida](https://drive.google.com/drive/folders/1CacOIcjZfA3UPUP90oce1-W6lGOLcvZR?usp=sharing).
+
+---
+
 
